@@ -1,0 +1,2 @@
+npm i redux react-redux
+install redux tool in chrome
